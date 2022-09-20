@@ -1,4 +1,5 @@
-# teste-git
-Praticando comandos do GIT
+# CPF-VALIDATOR
+#script que válida CPF
+Repositório feito para praticar comandos do GIT
 
-Fica mais fácil criar e clonar um REPO direto do GITHUB.
+1+ Fica mais fácil criar e clonar um REPO direto do GITHUB.
